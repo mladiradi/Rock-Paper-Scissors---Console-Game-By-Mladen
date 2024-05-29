@@ -10,7 +10,7 @@ Mladen's part of console game - Rock Paper Scissors
       • Screenshots (add screenshots from your project in different scenarios of its usage) 
       • Live demo (add a one-click live demo of your code)
 
-`#0969DA`
+
 ## **Implement the Game Logic** 
 
 ### Read Player's Move 
