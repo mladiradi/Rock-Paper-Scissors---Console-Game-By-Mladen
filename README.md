@@ -11,7 +11,7 @@ Mladen's part of console game - Rock Paper Scissors
       • Live demo (add a one-click live demo of your code)
 
 
-**Implement the Game Logic** 
+##**Implement the Game Logic** 
 
 Read Player's Move 
 Now let's start working on our code. 
