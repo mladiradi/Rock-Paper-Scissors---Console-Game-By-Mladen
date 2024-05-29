@@ -27,4 +27,21 @@ Now let's run the app in the console and check whether our current code works pr
 
 ![Екранна снимка 2024-05-29 172137](https://github.com/mladiradi/Rock-Paper-Scissors---Console-Game-By-Mladen/assets/100635431/30866dda-9b38-4fc8-a0c9-7a74485fd669)
 
+We can see that we have our text written on the console, and we can also write. 
+
+Match Player's Move with Possible Options 
+Now it is time to turn the user input into one of our player's moves options. To do this, create an if-else 
+statement with the possible moves and change the player_move variable value with the value it represents. 
+First, if the user has entered "r", they chose "Rock". Write it like this:
+
+![image](https://github.com/mladiradi/Rock-Paper-Scissors---Console-Game-By-Mladen/assets/100635431/0a190d15-6c6a-493f-b47f-408bb9335847)
+
+And if they have entered "p" or "s", then they chose "Paper" or "Scissors" accordingly. Write the else-if 
+statements by yourself: 
+
+![image](https://github.com/mladiradi/Rock-Paper-Scissors---Console-Game-By-Mladen/assets/100635431/36b82971-dd00-4fd8-8fd5-c7bc1396b6cc)
+
+
+
+
 
