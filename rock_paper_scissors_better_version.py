@@ -1,14 +1,13 @@
 
-
 import random
 
 rock = 'Rock'
 paper = 'Paper'
 scissors = 'Scissors'
 player_move = ''
-player_choise = ''
+player_choice = ''
 
-while player_choise != 'n':
+while player_choice != 'n':
     while player_move != 'r' or player_move != 'p' or player_move != 's':
         player_move = input("Choose [r]ock, [p]aper or [s]cissors: ")
         print()
@@ -24,9 +23,9 @@ while player_choise != 'n':
             break
         else:
             print("Invalid input !")
-            player_choise = input("If you want to try again, please enter [y]: ")
+            player_choice = input("If you want to try again, please enter [y]: ")
             print()
-            if player_choise == 'y':
+            if player_choice == 'y':
                 continue
             else:
                 print("Thank You for Your time !")
@@ -61,11 +60,10 @@ while player_choise != 'n':
         print("You win!")
         print()
 
-    player_choise = input("If you want to try again, please enter [y]: ")
+    player_choice = input("If you want to try again, please enter [y]: ")
     print()
-    if player_choise == 'y':
+    if player_choice == 'y':
         continue
     else:
         print("Thank You for Your time !")
         raise SystemExit("Have a good day !")
-
