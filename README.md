@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors---Console-Game-By-Mladen
 Mladen's part of console game - Rock Paper Scissors
 
-Description and rules of the game:
+Description`#ffffff` and rules of the game:
 
       • Project title (should answer the question "What's inside this project) 
       • Project goals (what problem do we solve, e. g. we implement a certain game) 
