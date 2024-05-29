@@ -10,10 +10,10 @@ Mladen's part of console game - Rock Paper Scissors
       • Screenshots (add screenshots from your project in different scenarios of its usage) 
       • Live demo (add a one-click live demo of your code)
 
-
+`#0969DA`
 ## **Implement the Game Logic** 
 
-Read Player's Move 
+### Read Player's Move 
 Now let's start working on our code. 
 Create three variables for our "Rock", "Paper", and "Scissors", which we will use later. They should look like this: 
 
@@ -53,7 +53,7 @@ logic only for the incorrect input so the results should be as follows:
 
 ![image](https://github.com/mladiradi/Rock-Paper-Scissors---Console-Game-By-Mladen/assets/100635431/2baede38-8357-4514-a221-a3d00b828d15)
 
-Choose Computer's Move 
+### **Choose Computer's Move**
 Create a variable of type Random that will help us choose a random number using the randint method. We will 
 use this number so that the computer can randomly select from "rock", "paper", or "scissors": 
 
@@ -73,7 +73,7 @@ Choose the computer's random move, to make this happen use the conditional state
 Think about how you can complete these conditional statements. 
 
 
-**Check and Write the Result** 
+### **Check and Write the Result** 
 Write to the console what is the random selection of the computer e.g., "The computer chose 
 {computer_move}.". Now we need to compare the choice of the player and the computer, again using 
 conditional statements. 
@@ -94,7 +94,7 @@ After you run it, the game should look like this:
 ![image](https://github.com/mladiradi/Rock-Paper-Scissors---Console-Game-By-Mladen/assets/100635431/1df2ed07-596b-4fd0-b6e9-6bd124e6e072)
 
 
-**Modify the Code, Write Your Own Features**
+### **Modify the Code, Write Your Own Features**
 
 Restart the Game 
 You can automatically restart the game after it is finished (or ask the player to play again).
@@ -102,7 +102,7 @@ You can automatically restart the game after it is finished (or ask the player t
 ![image](https://github.com/mladiradi/Rock-Paper-Scissors---Console-Game-By-Mladen/assets/100635431/43762c8a-6cdb-4cdb-be57-ba3547efb672)
 
 
-**Attached source PDF file:**
+## **Attached source PDF file:**
 [01-Rock-Paper-Scissors-Project-Description..pdf](https://github.com/mladiradi/Rock-Paper-Scissors---Console-Game-By-Mladen/files/15485912/01-Rock-Paper-Scissors-Project-Description.pdf)
 
 
