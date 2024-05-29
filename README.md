@@ -18,4 +18,13 @@ Create three variables for our "Rock", "Paper", and "Scissors", which we will us
 
 ![image](https://github.com/mladiradi/Rock-Paper-Scissors---Console-Game-By-Mladen/assets/100635431/44abe86c-2e1e-4701-b94d-7d5715a4ed61)
 
+Next, write on the console what options ("r" for "rock", "p" for "paper", and "s" for "scissors") the player can choose 
+from and read his input data. You already know how to do this: 
+
+![image](https://github.com/mladiradi/Rock-Paper-Scissors---Console-Game-By-Mladen/assets/100635431/f2d2eedf-8a72-4672-a2b7-b84b0d6fc31d)
+
+Now let's run the app in the console and check whether our current code works properly: 
+
+![Екранна снимка 2024-05-29 172137](https://github.com/mladiradi/Rock-Paper-Scissors---Console-Game-By-Mladen/assets/100635431/30866dda-9b38-4fc8-a0c9-7a74485fd669)
+
 
