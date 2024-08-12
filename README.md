@@ -72,8 +72,5 @@ Restart the Game
 You can automatically restart the game after it is finished (or ask the player to play again).
 
 
-## **Attached source PDF file:**
-[01-Rock-Paper-Scissors-Project-Description..pdf](https://github.com/mladiradi/Rock-Paper-Scissors---Console-Game-By-Mladen/files/15485912/01-Rock-Paper-Scissors-Project-Description.pdf)
-
 
 * *...the readme file is under construction...*
